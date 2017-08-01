@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "description": "parse-server for test",
+  "scripts": {
+    "start": "parse-server config.json"
+  },
+  "dependencies": {
+    "parse-server": "^2.0.0"
+  }
+}

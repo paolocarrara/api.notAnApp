@@ -1,0 +1,7 @@
+{
+  "appId": "notAnAppId",
+  "masterKey": "notAMasterKey",
+  "appName": "test",
+  "cloud": "./cloud/main",
+  "databaseURI": "mongodb://localhost:27017/"
+}
